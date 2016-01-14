@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.Object java.lang.Class&lt;?&gt; getClass()'>
+        <annotation name='java.lang.annotation.Deprecated'/>
+    </item>
+</root>
